@@ -20,12 +20,12 @@ sleep 5
 echo ""
 toilet -f big -F gay Yadi F.
 echo $green"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $white"Author : Yadi Fernando"
-echo $green"Kontak Me : 085706249638"
-echo $purple"Instagram : @yadi_fernando123"
-echo $blue"Facebook : Yadi Fernando"
+echo $white"Author : Elga Dasuha"
+echo $green"Kontak Me : 0821********"
+echo $purple"Instagram : @elga.dasuha_"
+echo $blue"Facebook : ElgaII"
 echo $yellow"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $red"SUBSCRIBE :" $white"Official Yadi Fernando"
+echo $red"SUBSCRIBE :" $white"Official Bayu Hacker"
 echo $green"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $yellow"Thanks For : Indonesia Security Lite"
 echo $green"<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
@@ -52,7 +52,7 @@ echo $cyan "8.> Spam Sms ZiPAY"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $red "9.> Nyari CC buat Carding"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
-echo $white "10.> Spam Akun Gmail"
+echo $white "10.> Hack Akun Gmail"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
 echo $green "11.> Whois LookUp"
 echo "<{≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈≈}>"
@@ -3372,7 +3372,7 @@ fi
 
 if [ $bro = 0 ] || [ $bro = 0 ]
 then
-echo $green"Official Yadi Fernando"
+echo $green"Official Bayu Hacker"
 sleep 2
 echo
 echo $yellow"Kami Bukanlah Penjahat"
